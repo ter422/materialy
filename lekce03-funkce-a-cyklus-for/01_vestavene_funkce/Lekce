@@ -1,0 +1,26 @@
+#print(min(range(-10;2)
+for i in range(98,100):
+    print ("Cislo")
+    if (i % 2 == 0):
+        print ("sude", i)
+    else:
+        print ("Liché", i)
+    print ("konec cyklu", i)
+print ("hotovo")
+
+
+soucet = 0
+for i in range(0, 5):
+    soucet = soucet + 1
+print(soucet)
+
+for i in range(5):
+    print(i)
+    for j in range(4):
+        print("kolo:", i, "pokus:", j)
+    print("konec", i)
+print("konec vsech cyklu")
+
+jmeno = input("Jmeno?")
+for pismeno in jmeno:
+    print(pismeno, "I")

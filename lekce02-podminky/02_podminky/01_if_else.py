@@ -14,6 +14,7 @@
 # (posuneme doprava – ve VS Code stačí klávesa Tab). 
 # Odsazení říká Pythonu „tohle patří do if-u".
 
+vek = 14
 
 vek = 20
 

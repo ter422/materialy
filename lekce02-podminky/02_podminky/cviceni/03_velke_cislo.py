@@ -5,3 +5,10 @@
 #    než 100, jinak "Malé číslo.".
 
 
+a = int(input("Napiš číslo: "))
+print(a + a)
+
+a = input("Napiš číslo: ")
+print(a + a)
+
+cislo = 
