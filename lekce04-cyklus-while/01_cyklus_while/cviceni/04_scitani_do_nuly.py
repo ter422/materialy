@@ -4,4 +4,6 @@
 # Uživatel postupně zadává čísla. Sčítej je. Jakmile zadá 0,
 #    přestaň se ptát a vypiš celkový součet.
 
-
+soucet = 0
+cislo = int(input("Zadej číslo (0 = konec:)"))
+while cislo != 
