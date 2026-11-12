@@ -11,7 +11,7 @@ from random import randrange
 
 
 def uklid_vstupu(text):
-    return text.strip().title()
+    return text.strip().lower()
 
 
 def tah_pocitace():
